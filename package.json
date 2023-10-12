@@ -1,0 +1,22 @@
+{
+  "name": "l3_js_basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DislocatedBo/l3_js_basic.git"
+  },
+  "author": "Andrei Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DislocatedBo/l3_js_basic/issues"
+  },
+  "homepage": "https://github.com/DislocatedBo/l3_js_basic#readme",
+  "description": ""
+}
