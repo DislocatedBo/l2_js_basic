@@ -1,4 +1,4 @@
-
+// Part1. The kolobok function takes the character's name as input and returns what the kolobok did after meeting the character
 function kolobok(charName) {
 
   switch (charName) {
@@ -20,7 +20,7 @@ kolobok('дедушка')
 kolobok('заяц')
 kolobok('лиса')
 
-
+//Part2. The function takes the character's name as input, returns the character's name 3 times
 function newYear(charName) {
   return console.log(`${charName}! ${charName}! ${charName}!`)
 }
